@@ -8,5 +8,5 @@
 [PytonIsntitute](https://pythoninstitute.org/)  
 [OpenClassRoons](https://openclassrooms.com/en/)  
 [Linkedin](https://www.linkedin.com/in/agtonclemente/)         
-[![Linkedin](https://user-images.githubusercontent.com/82783144/121920892-60bc2780-cd30-11eb-8cc7-de419c2f990c.jpg)](https://www.linkedin.com/in/agtonclemente/)]
+[![Linkedin](https://user-images.githubusercontent.com/82783144/121920892-60bc2780-cd30-11eb-8cc7-de419c2f990c.jpg)](https://www.linkedin.com/in/agtonclemente/)
 
