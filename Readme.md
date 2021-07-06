@@ -10,6 +10,8 @@
 * [PytonIsntitute](https://pythoninstitute.org/)  
 * [OpenClassRoons](https://openclassrooms.com/en/)  
 
-[Linkedin](https://www.linkedin.com/in/agtonclemente/)         
+[Linkedin](https://www.linkedin.com/in/agtonclemente/)  
+
+[CV_AgtonAtualizado.pdf](https://github.com/agtonclemente/agtonclemente/files/6773116/CV_AgtonAtualizado.pdf)
 
 
